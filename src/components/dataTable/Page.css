@@ -1,0 +1,24 @@
+.pagination-footer {
+  width: 100%;
+  padding: 10px 0;
+  display: flex;
+  justify-content: flex-end;
+  box-shadow: none;
+  background-color: transparent;
+}
+
+.pagination-info {
+  display: flex;
+  align-items: center;
+}
+
+.pagination-footer button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.pagination-footer button:disabled {
+  background-color: #e0e0e0;
+  cursor: not-allowed;
+}

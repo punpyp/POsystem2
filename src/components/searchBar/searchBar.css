@@ -1,0 +1,24 @@
+.search-filter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.searchbar-container {
+  display: flex;
+}
+
+/* .custom-button-group {
+  margin-top: 30px;
+} */
+
+/* .searchbar-container {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  padding-left: 50px;
+}
+
+.searchbar-container input {
+  width: 100%;
+} */
